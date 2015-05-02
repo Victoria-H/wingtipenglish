@@ -145,8 +145,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.02352941"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1746582"
-     inkscape:cx="-158.15359"
+     inkscape:zoom="0.34863414"
+     inkscape:cx="555.37196"
      inkscape:cy="298.05073"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -170,7 +170,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -213,7 +213,7 @@
          xlink:href="#path5249"
          id="textPath5254"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.51306915px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#ffffff;stroke:none"
-   id="tspan4373">...language skills for the travel industry</tspan></textPath></text>
+   id="tspan4373">   language skills for the travel industry</tspan></textPath></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 191.42784,809.50506 c 104.21371,-55.08741 226.41041,-75.45353 342.85714,-57.14286 69.8587,10.98493 136.86488,35.28342 205.71429,51.42858 14.18716,3.32688 28.46181,6.3091 42.85714,8.57142 30.24854,4.75375 60.89238,6.31016 91.42857,8.57143 82.84069,6.13452 166.34202,17.48412 248.57142,5.71429 11.4698,-1.64172 22.8703,-3.72936 34.2857,-5.71429 75.9428,-13.20506 153.3377,-22.05134 225.7143,-48.57143 17.292,-6.33609 34.5034,-13.82952 48.5715,-25.71428 9.3578,-7.90554 17.4149,-17.79749 28.5714,-22.85714 1.9433,-0.8813 3.9796,-1.61474 5.7143,-2.85715 1.7892,-1.28138 3.1892,-3.07018 4.131,-5.05911 0.9419,-1.98893 1.436,-4.17372 1.5833,-6.36946 0.064,-0.95095 0.064,-1.90619 0,-2.85714"
